@@ -1,0 +1,189 @@
+.container1{
+   background-color: rgba(240, 248, 255, 0.945);
+    width: 600px;
+    padding: 20px;
+    border-radius: 0px 30px 30px 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.appointment_calender{
+    background-color: rgb(186, 186, 233);
+    border-radius: 10px;
+}
+.black_style{
+    color: rgb(145, 143, 143);
+}
+.appointment{
+    background-color: rgb(99, 99, 206);
+    padding: 10px;
+    color: whitesmoke;
+    border-radius: 20px;
+}
+.appointment2{
+    background-color: rgb(186, 186, 233);
+    padding: 10px;
+    border-radius: 14px;
+
+}
+
+@media screen and (max-width:1314px) {
+    li{
+        font-size: 10px;
+    }
+   .calender h4{
+        font-size: 20px;
+    }
+    .calender h6{
+        font-size: 17px;
+    }
+   
+
+}
+@media screen and (max-width:1255px) {
+    .container1{
+        width: 550px;
+   
+    }
+}
+@media screen and (max-width:1200px) {
+    #h3{
+        font-size: 20px;
+    }
+    .container1{
+        width: 450px;
+    }
+    .appointment{
+        padding: 6px;
+        font-size: 14px;
+    }
+    .appointment2{
+        padding: 6px;
+        font-size: 14px;
+    }
+    .appointment h5,h6{
+        font-size: 17px;
+    }
+    .appointment2 h5,h6{
+        font-size: 17px;
+    }
+   h4{
+    font-size: 10px;
+   }
+}
+@media screen and (max-width:1050px) {
+    #h3{
+        font-size: 16px;
+    }
+    .calender h4{
+        font-size: 15px;
+    }
+    .calender h6{
+        font-size: 12px;
+    }
+    .appointment h5{
+        font-size: 14px;
+    }
+    .appointment2 h5{
+        font-size: 14px;
+    }
+    footer h3{
+        font-size: 18px;
+    }
+
+}
+@media (max-width:991px) {
+    .container1{
+        height: 140vh;
+    }
+    #h3{
+        font-size: 20px;
+    }
+    .calender h4{
+        font-size: 18px;
+    }
+    .calender h6{
+        font-size: 15px;
+    }
+    .appointment h5{
+        font-size: 17px;
+    }
+    .appointment2 h5{
+        font-size: 17px;
+    }
+    footer h3{
+        font-size: 22px;
+    }
+}
+@media (max-width:969px) {
+    #h3{
+        font-size: 15px;
+    }
+    .calender h4{
+        font-size: 17px;
+    }
+    .calender h6{
+        font-size: 12px;
+    }
+    .appointment h5{
+        font-size: 17px;
+    }
+    .appointment h6{
+        font-size: 13px;
+    }
+    .appointment2 h5{
+        font-size: 15px;
+    }
+    .appointment2 h6{
+        font-size: 10px;
+    }
+    footer h3{
+        font-size: 15px;
+    }
+}
+@media (max-width:955px) {
+    .container1{
+        height: 170vh;
+        width: 400px;
+    }
+}
+@media (max-width:900px) {
+    .container1{
+        width: 350px;
+       
+    }
+    .calender h4{
+        font-size: 15px;
+    }
+    .calender h6{
+        font-size: 10px;
+    }
+    .appointment h5{
+        font-size: 15px;
+    }
+    .appointment h6{
+        font-size: 11px;
+    }
+    .appointment2 h5{
+        font-size: 12px;
+    }
+    .appointment2 h6{
+        font-size: 14px;
+    }
+    footer h3{
+        font-size: 15px;
+    }
+}
+
+@media (max-width:766px) {
+    .container1{
+        width: 700px;
+        border-radius: 0px;
+    }
+}
+
+@media (max-width:740px) and (min-width:440px) {
+    .container1{
+        width:90vw;
+        margin-top: 20px;
+        
+    }
+}

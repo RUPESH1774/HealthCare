@@ -1,0 +1,69 @@
+/* @media screen and (max-width:1314px) {
+    li{
+        font-size: 10px;
+    }
+    #body{
+        height: 40vh;
+    }
+    .allOrgone{
+        height: 70vh;
+    }
+    .orgone img{
+        height: 4vh;
+    }
+    .container input{
+        width: 200px;
+    }
+    #allActivity{
+        margin-top: -50px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    h6{
+        font-size: 17px;
+    }
+    h5{
+        font-size: 18px;
+    }
+
+}
+@media screen and (max-width:1255px) {
+    .container1{
+        width: 550px;
+        background-color: aquamarine;
+    }
+}
+@media screen and (max-width:1200px) {
+    h3{
+        font-size: 20px;
+    }
+    .container1{
+        width: 450px;
+    }
+    .appointment{
+        padding: 6px;
+        font-size: 14px;
+    }
+    .appointment2{
+        padding: 6px;
+        font-size: 14px;
+    }
+    .appointment h5,h6{
+        font-size: 17px;
+    }
+    .appointment2 h5,h6{
+        font-size: 17px;
+    }
+    aside{
+        padding: 10px;
+    }
+}
+/* @media screen and (max-width:1080px) {
+    .container1{
+        width: 420px;
+    }
+} */
+
+
+   
